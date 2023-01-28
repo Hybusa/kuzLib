@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kuzLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kuzLib_jar</output-path>
+    <root id="archive" name="kuzLib.jar">
+      <element id="module-output" name="kuzLib" />
+    </root>
+  </artifact>
+</component>
